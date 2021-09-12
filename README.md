@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=This+is+E-Commerce+Website;&center=true&width=500&height=100"></a>
                   </p>
 
