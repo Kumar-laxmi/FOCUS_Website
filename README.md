@@ -10,4 +10,4 @@
 <p>Here are screenshots that show the E-commerce demo application in use.</p>
 
 **Home Page**
-![Home Page](/SCREEN SHOTS/Screenshot 2021-08-14 at 3.40.39 PM.png?raw=true "Optional Title")
+![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.40.39%20PM.png?raw=true "Optional Title")
