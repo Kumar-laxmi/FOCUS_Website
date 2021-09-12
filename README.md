@@ -11,3 +11,4 @@
 
 **Home Page**
 ![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.40.39%20PM.png?raw=true "Optional Title")
+![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.40.46%20PM.png?raw=true "Optional Title")
