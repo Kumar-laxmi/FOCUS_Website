@@ -1,4 +1,6 @@
-# E-Commerse-Website 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=This+is+E-Commerce+Website;&center=true&width=500&height=100"></a>
+                  </p>
 
 <p>This is a Template of an E-Commerce Website 🖥. 👨🏽‍💻 It has been coded using HTML , CSS and JavaScript.</p>
 <p>In this only Front-End Development has been done 👩‍💻 . </p>
