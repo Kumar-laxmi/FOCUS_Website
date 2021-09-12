@@ -14,6 +14,6 @@
 ![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.40.46%20PM.png?raw=true "Optional Title")
 ![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.40.49%20PM.png?raw=true "Optional Title")
 
-**Customer Care Page*
+**Customer Care Page**
 ![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.41.22%20PM.png?raw=true "Optional Title")
 ![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.41.29%20PM.png?raw=true "Optional Title")
