@@ -24,4 +24,12 @@
 ![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.41.37%20PM.png?raw=true "Optional Title")
 ![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.41.44%20PM.png?raw=true "Optional Title")
 
+### Category Page
+![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.01%20PM.png?raw=true "Optional Title")
+![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.06%20PM.png?raw=true "Optional Title")
+![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.15%20PM.png?raw=true "Optional Title")
 
+### Billing Page
+![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.46%20PM.png?raw=true "Optional Title")
+![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.49%20PM.png?raw=true "Optional Title")
+![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.52%20PM.png?raw=true "Optional Title")
