@@ -1,35 +1,20 @@
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=This+is+E-Commerce+Website;&center=true&width=500&height=100"></a>
-                  </p>
+</p>
 
-<p>This is a Template of an E-Commerce Website 🖥. 👨🏽‍💻 It has been coded using HTML , CSS and JavaScript.</p>
-<p>In this only Front-End Development has been done 👩‍💻 . </p>
+## About Project
+<p> Focus is open source e-commerce solution, simplicity in designed is to thrive sales and reduce development effort. </p>
+<p> This project only involves Front-End Developemt using: </p>
 
-<p>Kindly click on main.html ⬅️ file to start with home page 💻 .</p>
+## Features:
+<ul>
+  <li> Responsive design </li>
+  <li> Multiple payment methods </li>
+  <li> Pages & footer links </li>
+  <li> Built on <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong> </li>
+</ul>
 
 ## Live Demostration
 
-<p>Here are screenshots that show the E-commerce demo application in use.</p>
+<p> To view the LIVE Demonstration of Website, click at <a href="https://kumar-laxmi.github.io/E-Commerse-Website/">Github Pages</a></p>
 
-### Home Page
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.40.39%20PM.png?raw=true "Optional Title")
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.40.46%20PM.png?raw=true "Optional Title")
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.40.49%20PM.png?raw=true "Optional Title")
-
-### Customer Care Page
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.41.22%20PM.png?raw=true "Optional Title")
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.41.29%20PM.png?raw=true "Optional Title")
-
-### About Us Page
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.41.37%20PM.png?raw=true "Optional Title")
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.41.44%20PM.png?raw=true "Optional Title")
-
-### Category Page
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.01%20PM.png?raw=true "Optional Title")
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.06%20PM.png?raw=true "Optional Title")
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.15%20PM.png?raw=true "Optional Title")
-
-### Billing Page
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.46%20PM.png?raw=true "Optional Title")
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.49%20PM.png?raw=true "Optional Title")
-![Home Page](https://github.com/Kumar-laxmi/E-Commerse-Website/blob/main/SCREEN%20SHOTS/Screenshot%202021-08-14%20at%203.42.52%20PM.png?raw=true "Optional Title")
