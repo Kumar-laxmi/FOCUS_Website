@@ -1,6 +1,4 @@
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=This+is+E-Commerce+Website;&center=true&width=500&height=100"></a>
-</p>
+<img src="https://github.com/Kumar-laxmi/FOCUS_Website/blob/master/SCREEN%20SHOTS/FOCUS%20Website-banner.png" />
 
 ## About Project
 <p> Focus is open source e-commerce solution, simplicity in designed is to thrive sales and reduce development effort. </p>
