@@ -1,4 +1,4 @@
-<img src="https://github.com/Kumar-laxmi/FOCUS_Website/blob/master/SCREEN%20SHOTS/FOCUS%20Website-banner.png" />
+<img src="./SCREEN SHOTS/FOCUS Website-banner.png" />
 
 ## About Project
 <p> Focus is open source e-commerce solution, simplicity in designed is to thrive sales and reduce development effort. </p>
@@ -14,7 +14,8 @@
 
 ## Live Demostration
 
-<p> To view the LIVE Demonstration of Website, click at <a href="https://kumar-laxmi.github.io/E-Commerse-Website/">Github Pages</a></p>
+<p> To view the LIVE Demonstration of Website, click at <a href="https://kumar-laxmi.github.io/FOCUS_Website">Github Pages</a></p>
+<p> To view the LIVE Demonstration of Website, click at <a href="https://focus-website-eta.vercel.app">Vercel Production</a></p>
 
 ### Technology Used:
 - #### Languages:
@@ -23,4 +24,10 @@
   - ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-##### NOTE: The project is still in progress
+### Screen-shots:
+<img src="./SCREEN-SHOTS-GITHUB/Screenshot 2022-05-29 at 5.47.59 AM.png" alt="FOCUS SS" />
+<img src="./SCREEN-SHOTS-GITHUB/Screenshot 2022-05-29 at 5.48.05 AM.png" alt="FOCUS SS" />
+<img src="./SCREEN-SHOTS-GITHUB/Screenshot 2022-05-29 at 5.48.13 AM.png" alt="FOCUS SS" />
+<img src="./SCREEN-SHOTS-GITHUB/Screenshot 2022-05-29 at 5.48.20 AM.png" alt="FOCUS SS" />
+<img src="./SCREEN-SHOTS-GITHUB/Screenshot 2022-05-29 at 5.48.27 AM.png" alt="FOCUS SS" />
+<img src="./SCREEN-SHOTS-GITHUB/Screenshot 2022-05-29 at 5.48.34 AM.png" alt="FOCUS SS" />
